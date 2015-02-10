@@ -1,0 +1,15 @@
+INDEX VERSION 1.127
+/home/isaw/workspaceServidor/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/213142480.index
+/TrabajoFinal/src
+/home/isaw/workspaceServidor/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1019701538.index
+/Tienda/src
+/home/isaw/workspaceServidor/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2401450072.index
+/jspTaller1/src
+/home/isaw/workspaceServidor/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/527916530.index
+/MVCBD/src
+/home/isaw/workspaceServidor/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3308333972.index
+/TrabajoFinal/src
+/home/isaw/workspaceServidor/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2770265930.index
+/TrabajoFinal/src
+/home/isaw/workspaceServidor/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2599591949.index
+/tarea_3/src

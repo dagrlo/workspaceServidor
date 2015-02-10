@@ -1,0 +1,32 @@
+package edu.uv.dynamicresponse;
+
+import java.io.IOException;
+import java.io.OutputStream;
+import java.io.PrintWriter;
+import java.net.Socket;
+import java.util.HashMap;
+
+import edu.uv.common.UtilsHTTP;
+
+public class SingleBuilder {
+		 
+	 private static HashMap<String,SingleBuilder> clases=new HashMap<String,SingleBuilder>();	 
+	 
+	 private SingleBuilder(){}
+		 	 
+	 public static SingleBuilder createInstance(Socket canal, String clase, String request) {
+		 
+		 if (clases.get(clase)==null){			 
+			 System.out.println("NO tenemos la clase declarada la hacemos");
+			 if (clases.get(clase) == null) {		            
+		            synchronized(SingleBuilder.class) {
+		                if (clases.get(clase) == null) { 
+		                	clases.put(clase,new SingleBuilder());		                	
+		                }
+		            }
+		        }			 			 
+		 }
+		 return clases.get(clase);
+	 }
+		
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;CGITHHPServer&apos;&#x0A;- Original project: &apos;CGITHHPServer&apos;&#x0A;- Original elements:&#x0A;     CGITHHPServer/src/edu.uv.http.cgiresponse&#x0A;     CGITHHPServer/src/edu.uv.http.main&#x0A;     CGITHHPServer/src/edu.uv.http.staticresponse" description="Delete elements" element1="/src&lt;edu.uv.http.staticresponse" element10="/src&lt;edu.uv.http" element11="/src&lt;edu.uv" element12="/src&lt;edu" element2="/src&lt;edu.uv.http" element3="/src&lt;edu.uv" element4="/src&lt;edu" element5="/src&lt;edu.uv.http.main" element6="/src&lt;edu.uv.http" element7="/src&lt;edu.uv" element8="/src&lt;edu" element9="/src&lt;edu.uv.http.cgiresponse" elements="12" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1413986207137" subPackages="false" version="1.0"/>
+</session>
